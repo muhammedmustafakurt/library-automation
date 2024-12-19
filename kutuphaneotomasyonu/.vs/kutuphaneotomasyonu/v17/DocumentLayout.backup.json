@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7DBBCDB-CE9B-49A8-8CA9-14AAAE7EF5B8}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:14:26.575Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs*",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Form1.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:11:37.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.Designer.cs",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:05:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\kurtm\\source\\repos\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Program.cs",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:05:48.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
